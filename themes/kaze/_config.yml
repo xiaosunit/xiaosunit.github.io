@@ -4,7 +4,7 @@ title: 小孙运维开发
 author: 小孙运维开发
 # put the logo on the ${blog_path}/source/img/${picname}.png or use urls
 # logo_img: https://img.songhn.com/img/Y67gdd.png
-author_img: images/logo.jpg
+author_img: /images/logo.jpg
 author_description: 运维开发、技术分享
 #------------------------
 # Navbar config
