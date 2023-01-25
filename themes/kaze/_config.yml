@@ -4,7 +4,7 @@ title: 小孙运维开发
 author: 小孙运维开发
 # put the logo on the ${blog_path}/source/img/${picname}.png or use urls
 # logo_img: https://img.songhn.com/img/Y67gdd.png
-author_img: https://img.songhn.com/img/Y67gdd.png
+author_img: images/logo.jpg
 author_description: 运维开发、技术分享
 #------------------------
 # Navbar config
@@ -77,7 +77,7 @@ footer:
   #------------------------
   # Record config
   # please put the gov image in ${yoursite}/img/beian.png
-  RecordInfo: "" # your Record info such as '某ICP备xxx号'
+  RecordInfo: "粤 ICP 备 17157242 号" # your Record info such as '某ICP备xxx号'
   govRecordInfo: "" # your gov record info such as '某公网安备xxx号'
   govRecordUrl: "" # your gov record url
   #------------------------
