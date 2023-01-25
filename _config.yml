@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'XiaoSun IT - 技术分享'
-subtitle: '小孙 IT 运维'
-description: '小孙IT运维开发、网络运维、Linux运维、编程开发、技术分析及分享'
+title: '小孙运维开发'
+subtitle: 'XiaoSun IT - 技术分享'
+description: '小孙运维开发、网络运维、Linux运维、编程开发、技术分析及分享'
 keywords: '运维开发、网络运维、网络编程、Linux运维、k8s运维开发、docker运维开发、编程开发、技术分享、Python'
 author: SunJIN
 language: zh-CN
