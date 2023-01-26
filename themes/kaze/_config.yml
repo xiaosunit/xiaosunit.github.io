@@ -27,6 +27,12 @@ about:
 # Links
 #------------------------
 links:
+  hexo:
+    url: https://hexo.io/
+    description: 快速、简洁且高效的博客框架
+  kaze:
+    url: https://github.com/theme-kaze
+    description: "kexo theme-kaze"
   # name:
   #   url: https://example.com
   #   avatar:
@@ -73,7 +79,7 @@ footer:
   # if showPoweredBy is ture, 'Powered by Hexo' will be seen on the footer
   showPoweredBy: false
   # if showThemeName is ture, 'Theme - Kaze' will be seen on the footer
-  showThemeName: false
+  showThemeName: true
   #------------------------
   # Record config
   # please put the gov image in ${yoursite}/img/beian.png
