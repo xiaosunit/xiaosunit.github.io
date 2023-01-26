@@ -79,7 +79,7 @@ footer:
   # if showPoweredBy is ture, 'Powered by Hexo' will be seen on the footer
   showPoweredBy: false
   # if showThemeName is ture, 'Theme - Kaze' will be seen on the footer
-  showThemeName: true
+  showThemeName: false
   #------------------------
   # Record config
   # please put the gov image in ${yoursite}/img/beian.png
