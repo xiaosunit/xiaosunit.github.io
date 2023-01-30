@@ -1,8 +1,10 @@
 ---
-title: MySQL系列教程-数据库介绍
+title: MySQL系列教程-数据库介绍-1
 date: 2023-01-28 21:38:03
 tags: MySQL
 categories:
+  - [MySQL]
+  - [MySQL系列教程]
 ---
 
 # 什么是数据库？
@@ -47,19 +49,19 @@ MySQL的license现在分为免费的社区版与收费的标准版、企业版�
 
 <br/>
 
-# 支持操作系统
+## 支持操作系统
 
 - 支持[AIX](https://zh.m.wikipedia.org/wiki/AIX)、[BSDi](https://zh.m.wikipedia.org/w/index.php?title=BSDi&action=edit&redlink=1)、[FreeBSD](https://zh.m.wikipedia.org/wiki/FreeBSD)、[HP-UX](https://zh.m.wikipedia.org/wiki/HP-UX)、[Linux](https://zh.m.wikipedia.org/wiki/Linux)、[Mac OS](https://zh.m.wikipedia.org/wiki/Mac_OS)、[Novell NetWare](https://zh.m.wikipedia.org/wiki/Novell_NetWare)、[NetBSD](https://zh.m.wikipedia.org/wiki/NetBSD)、[OpenBSD](https://zh.m.wikipedia.org/wiki/OpenBSD)、[OS/2 Wrap](https://zh.m.wikipedia.org/wiki/OS/2)、[Solaris](https://zh.m.wikipedia.org/wiki/Solaris)、[Windows](https://zh.m.wikipedia.org/wiki/Windows)等多种[操作系统](https://zh.m.wikipedia.org/wiki/作業系統)。
 
 <br/>
 
-# 支持编程语言
+## 支持编程语言
 
 - 编程语言包括[C](https://zh.m.wikipedia.org/wiki/C語言)、[C++](https://zh.m.wikipedia.org/wiki/C%2B%2B)、[C#](https://zh.m.wikipedia.org/wiki/C♯)、[VB.NET](https://zh.m.wikipedia.org/wiki/VB.NET)、[Delphi](https://zh.m.wikipedia.org/wiki/Delphi)、[Eiffel](https://zh.m.wikipedia.org/wiki/Eiffel)、[Java](https://zh.m.wikipedia.org/wiki/Java)、[Perl](https://zh.m.wikipedia.org/wiki/Perl)、[PHP](https://zh.m.wikipedia.org/wiki/PHP)、[Python](https://zh.m.wikipedia.org/wiki/Python)、[Ruby](https://zh.m.wikipedia.org/wiki/Ruby)和[Tcl](https://zh.m.wikipedia.org/wiki/Tcl)等。
 
 <br/>
 
-# MySQL优势
+## MySQL优势
 
 - MySQL 是开源的，目前隶属于 Oracle 旗下产品。
 - MySQL 支持大型的数据库。可以处理拥有上千万条记录的大型数据库。
