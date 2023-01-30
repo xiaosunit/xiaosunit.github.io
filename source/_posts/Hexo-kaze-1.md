@@ -26,7 +26,7 @@ const input = document.querySelector('#search-input') as HTMLElement
 input.focus()
 ```
 
-![image-20230125001259025](hexo-kaze-1/image-20230125001259025.png)
+<img src="hexo-kaze-1/image-20230125001259025.png" alt="image-20230125001259025" style="zoom:80%;" />
 
 
 
